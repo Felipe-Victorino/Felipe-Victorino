@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+*"Après le monde, le gris. Après le gris, monde encore"*
+
 <!--
 **Felipe-Victorino/Felipe-Victorino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
