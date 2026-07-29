@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-*"Après le monde, le gris. Après le gris, monde encore"*
+*"Un jour je serai après retour de toi"*
 
 ## Stack
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
